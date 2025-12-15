@@ -1,4 +1,5 @@
 <?php
+// new project
 class database{
     private $dbn;
     private $username;
